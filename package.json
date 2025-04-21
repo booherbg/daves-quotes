@@ -9,7 +9,6 @@
   "license": "ISC",
   "description": "Daily inspirational quotes website",
   "dependencies": {
-    "http-server": "^14.1.1",
     "serve": "^14.2.4"
   }
 }
