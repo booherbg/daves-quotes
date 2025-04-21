@@ -1,0 +1,15 @@
+{
+  "name": "daves-demo",
+  "version": "1.0.0",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Daily inspirational quotes website",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "serve": "^14.2.4"
+  }
+}
