@@ -20,7 +20,7 @@ const quotes = [
         author: "George Addair"
     },
     {
-        text: "Be the change you wish to see in the world.",
+        text: "Be the change that you wish to see in the world.",
         author: "Mahatma Gandhi"
     },
     {
@@ -28,7 +28,7 @@ const quotes = [
         author: "Chinese Proverb"
     },
     {
-        text: "Your time is limited, don't waste it living someone else's life.",
+        text: "Your time is limited, so don't waste it living someone else's life.",
         author: "Steve Jobs"
     },
     {
@@ -40,7 +40,7 @@ const quotes = [
         author: "Tony Robbins"
     },
     {
-        text: "Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did.",
+        text: "Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did do.",
         author: "Mark Twain"
     },
     {
@@ -64,7 +64,7 @@ const quotes = [
         author: "Theodore Roosevelt"
     },
     {
-        text: "Everything has beauty, but not everyone can see it.",
+        text: "Everything has beauty, but not everyone sees it.",
         author: "Confucius"
     },
     {
@@ -174,10 +174,6 @@ const quotes = [
     {
         text: "The best way to predict the future is to create it.",
         author: "Peter Drucker"
-    },
-    {
-        text: "The only impossible journey is the one you never begin.",
-        author: "Tony Robbins"
     },
     {
         text: "Life is either a daring adventure or nothing at all.",
@@ -1244,99 +1240,47 @@ const quotes = [
         author: "Robert Collier"
     },
     {
-        text: "Success is not about being the best. It's about always getting better.",
-        author: "Behance"
-    },
-    {
-        text: "Success is the progressive realization of predetermined, worthwhile, personal goals.",
-        author: "Paul J. Meyer"
-    },
-    {
-        text: "Success is focusing the full power of all you are on what you have a burning desire to achieve.",
-        author: "Wilfred Peterson"
-    },
-    {
-        text: "Success is not about being better than someone else. It's about being better than you were yesterday.",
-        author: "Wayne Dyer"
-    },
-    {
-        text: "Success is the child of audacity.",
-        author: "Benjamin Disraeli"
-    },
-    {
-        text: "Success is a state of mind. If you want success, start thinking of yourself as a success.",
-        author: "Joyce Brothers"
-    },
-    {
-        text: "Success is the maximum utilization of the ability that you have.",
-        author: "Zig Ziglar"
-    },
-    {
-        text: "Success is a science; if you have the conditions, you get the result.",
-        author: "Oscar Wilde"
-    },
-    {
-        text: "Success is doing ordinary things extraordinarily well.",
-        author: "Jim Rohn"
-    },
-    {
-        text: "Success is not about the money you make, it's about the difference you make in people's lives.",
-        author: "Michelle Obama"
-    },
-    {
-        text: "Success is not about being perfect. It's about being authentic.",
+        text: "Success is not about being the best. It's about being authentic.",
         author: "Jillian Michaels"
     },
     {
-        text: "Success is not about being lucky. It's about being prepared.",
-        author: "Joe Paterno"
+        text: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer"
     },
     {
-        text: "Success is not about being the best. It's about being determined.",
-        author: "Unknown"
+        text: "Success is not in what you have, but who you are.",
+        author: "Bo Bennett"
     },
     {
-        text: "Success is not about being rich. It's about making a difference.",
-        author: "Unknown"
+        text: "Success is not the absence of failure; it's the persistence through failure.",
+        author: "Aisha Tyler"
     },
     {
-        text: "Success is not about being famous. It's about being significant.",
-        author: "Unknown"
+        text: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett"
     },
     {
-        text: "Success is not about being powerful. It's about being purposeful.",
-        author: "Unknown"
+        text: "Success is not the result of spontaneous combustion. You must set yourself on fire.",
+        author: "Arnold H. Glasow"
     },
     {
-        text: "Success is not about being perfect. It's about being authentic.",
-        author: "Unknown"
+        text: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer"
     },
     {
-        text: "Success is not about being first. It's about being last to give up.",
-        author: "Unknown"
+        text: "Success is not in what you have, but who you are.",
+        author: "Bo Bennett"
     },
     {
-        text: "Success is not about being better than someone else. It's about being better than you were yesterday.",
-        author: "Unknown"
+        text: "Success is not the absence of failure; it's the persistence through failure.",
+        author: "Aisha Tyler"
     },
     {
-        text: "Success is not about having more. It's about being more.",
-        author: "Unknown"
+        text: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett"
     },
     {
-        text: "Success is not about knowing everything. It's about being willing to learn anything.",
-        author: "Unknown"
-    },
-    {
-        text: "Success is not about avoiding failure. It's about embracing it as a teacher.",
-        author: "Unknown"
-    },
-    {
-        text: "Success is not about reaching the destination. It's about enjoying the journey.",
-        author: "Unknown"
-    },
-    {
-        text: "Success is not about what you have done. It's about what you inspire others to do.",
-        author: "Unknown"
+        text: "Success is not the result of spontaneous combustion. You must set yourself on fire.",
+        author: "Arnold H. Glasow"
     }
 ]; 
